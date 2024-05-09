@@ -1,6 +1,6 @@
 <img width="1440" alt="Screenshot 2024-05-09 at 21 08 03" src="https://github.com/Lavelinee/Edubel_Slashcom/assets/39426370/c13b01b8-bb74-4037-9949-2c944c0aebdd"># Edubel_Slashcom
-Aplikasi Edukasi untuk Disabel
-Cara Penggunaan Aplikasi EduBeL
+Website Edukasi untuk Disabel
+Cara Penggunaan Website EduBeL
 >> User melakukan login untuk dapat mengakses course
 >> User melakukan register apabila belum memiliki akun
 >> User memilih jenis course yang diinginkan sesuai jenis disabilitas
